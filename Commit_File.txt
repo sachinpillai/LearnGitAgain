@@ -1,1 +1,2 @@
 commit sample file
+second line added for merge conflicts
